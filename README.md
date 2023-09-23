@@ -25,6 +25,12 @@ Tools
      1 CodeLineCount 代码统计器 clc
      2 AnythingWarningService 报警器 aws
 
-
+Project	Language	Stars	Forks	Remark
+🔥 growing-up	Markdown			程序猿成长计划
+mariadb-ha	Shell			Mariadb 10.4 + MaxScale + Keepalive HA
+redis-ha	Shell			主备模式的Redis高可用配置，配合Keepalived实现
+keepalived-example	Shell			Keepalived & LVS 搭建高可用的Web服务
+rabbitmq-pubsub-php	PHP			RabbitMQ发布订阅实战-实现延时重试队列 PHP 示例
+rabbitmq-pubsub-java	Java			RabbitMQ发布订阅实战-实现延时重试队列 Java 示例
 Products
     todo
