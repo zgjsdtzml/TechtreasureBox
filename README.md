@@ -17,3 +17,14 @@
 6.   2023.9.23
       工具2(aws)   cpu/内存 报警
      
+7.   2023.9.26？
+        todo 定制化前端显示  报警信息
+
+
+Tools
+     1 CodeLineCount 代码统计器 clc
+     2 AnythingWarningService 报警器 aws
+
+
+Products
+    todo
