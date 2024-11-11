@@ -18,7 +18,8 @@
       工具2(aws)   cpu/内存 报警
      
 7.   2023.10.08
-        加入 clc、aws开机自启动
+        加入 clc、aws开机自启动(systemd服务)
+        /etc/systemd/system目录下
      
 8   2023.10.19
          地产数据大模型研究
